@@ -48,7 +48,7 @@ social-network-links:
   github: tvisig
   twitter: RaviTvisi
 #  reddit: yourname
- linkedin: TvisiRavi
+#  linkedin: TvisiRavi
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -75,7 +75,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: false
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
