@@ -11,3 +11,4 @@ I currently work as a Data Analyst at KIPP Northern California Public Schools. I
 I previously worked as a Business Operations Consultant at ZS Associates. I supported clients in setting up and running their sales operations programs, and solved challenging  strategic and analytical problems in both for-profit and non-profit spaces. 
 
 Outside of work, you can find me at the climbing gym (pre-pandemic), in the mountains, or writing/reading at my favorite coffee shop. I love to adventure and try new things, and cherish the community I've built, both in and outside of the Bay Area. 
+
