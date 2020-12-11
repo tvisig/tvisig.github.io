@@ -14,7 +14,7 @@ description: Data Analyst, on a mission to create a more equitable world
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "/_posts/aboutme.md"
+  # About Me: ""
 #   Blog: "blog"
 #   Projects: "projects"
 #   Resume: 'tvisi_ravi_resume.pdf'
