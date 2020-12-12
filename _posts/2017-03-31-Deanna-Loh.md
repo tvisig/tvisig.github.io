@@ -39,19 +39,13 @@ A year after its conception, Deanna is happy with how the Salon turned out. She 
  
 ### Rapid Fire Questions 
 
-{: .box-note}
-**Inspiration?** Every single badass person I meet, especially women.
-{: .box-note}
-**Best advice you’ve received?** If you want something, manifest the shit out of it. 
-{: .box-note}
-**One thing you learned the hard way?** For every single thing in life, you’ve got to really work for it. There’s no sitting and being lucky and having opportunities being presented to you.
-{: .box-note}
-**Best decision of your life?** I have made the conscious decision to invest time in a community of people that I really enjoy and appreciate – a community of a lot of dancers centered on this house.
+{: .box-note} **Inspiration?** Every single badass person I meet, especially women.
+{: .box-note} **Best advice you’ve received?** If you want something, manifest the shit out of it. 
+{: .box-note} **One thing you learned the hard way?** For every single thing in life, you’ve got to really work for it. There’s no sitting and being lucky and having opportunities being presented to you.
+{: .box-note} **Best decision of your life?** I have made the conscious decision to invest time in a community of people that I really enjoy and appreciate – a community of a lot of dancers centered on this house.
 How do you unwind? I grab a cup of coffee.
-{: .box-note}
-**Your secret talent?** I can be really high energy sometimes and excitable, and it’s fun to help give a boost of energy towards people around me.
-{: .box-note}
-**Your mentors?** My mother. And my sorority big, Anna, who got me up on my feet for starting my career.
+{: .box-note} **Your secret talent?** I can be really high energy sometimes and excitable, and it’s fun to help give a boost of energy towards people around me.
+{: .box-note} **Your mentors?** My mother. And my sorority big, Anna, who got me up on my feet for starting my career.
  
 Talking to Deanna about the force of women and her excitement and readiness to create something, or “manifest it,” as she often said, had me on the edge of my seat. There’s a magnetic quality to someone when they talk vividly about their passions. You naturally lean in a bit, to soak up their energy and optimism. You let the sound of the chaos in the background fade away.
 
