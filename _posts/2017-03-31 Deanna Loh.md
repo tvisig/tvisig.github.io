@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Creating the Bay Area Women's Empowerment Salon
+subtitle: An Interview with Deanna Loh
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-
-## Creating the Bay Area Women's Empowerment Salon
 
 I rounded the corner to a bustling group of women. I was joining them for a ‘Vision Board1’ event, organized by the ‘Bay Area Women’s Empowerment Salon,’ a group my friend Deanna co-founded to bring together women to support one another.
 
