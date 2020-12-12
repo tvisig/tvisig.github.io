@@ -2,9 +2,9 @@
 layout: post
 title: Creating the Bay Area Women's Empowerment Salon
 subtitle: An Interview with Deanna Loh
-gh-repo: tvisig/deanna-loh
-gh-badge: [star, fork, follow]
-tags: [test]
+# gh-repo: 
+# gh-badge: [star, fork, follow]
+# tags: [test]
 comments: true
 ---
 
