@@ -8,7 +8,7 @@ subtitle: An Interview with Deanna Loh
 comments: true
 ---
 
-I rounded the corner to a bustling group of women. I was joining them for a ‘Vision Board1’ event, organized by the ‘Bay Area Women’s Empowerment Salon,’ a group my friend Deanna co-founded to bring together women to support one another.
+I rounded the corner to a bustling group of women. I was joining them for a ‘Vision Board’ event, organized by the ‘Bay Area Women’s Empowerment Salon,’ a group my friend Deanna co-founded to bring together women to support one another.
 
 I looked for a familiar face. The girls seemed like they knew each other well, and I regretted not bringing a friend. This kind of social gathering is always more comfortable with company.
 
